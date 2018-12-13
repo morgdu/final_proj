@@ -90,6 +90,7 @@ nav li a:hover {
     div.itemh {
         background-color: #939fb1;
         display: flex;
+        padding: 2em;
         align-items: center;
         justify-content: center;
         grid-column: 1 / 5;
