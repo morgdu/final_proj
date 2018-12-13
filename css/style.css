@@ -89,7 +89,6 @@ nav li a:hover {
 
     div.itemh {
         background-color: #939fb1;
-        padding: 2em;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -195,7 +194,6 @@ nav li a:hover {
 
 div.itemh {
     background-color: #939fb1;
-    padding: 2em;
     display: flex;
     align-items: center;
     justify-content: center;
